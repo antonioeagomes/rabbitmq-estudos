@@ -1,0 +1,16 @@
+/home/emmanuel/Documentos/Dev/csharp/rabbitmq-estudos/dotNet/Publisher/bin/Debug/netcoreapp3.1/Publisher
+/home/emmanuel/Documentos/Dev/csharp/rabbitmq-estudos/dotNet/Publisher/bin/Debug/netcoreapp3.1/Publisher.deps.json
+/home/emmanuel/Documentos/Dev/csharp/rabbitmq-estudos/dotNet/Publisher/bin/Debug/netcoreapp3.1/Publisher.runtimeconfig.json
+/home/emmanuel/Documentos/Dev/csharp/rabbitmq-estudos/dotNet/Publisher/bin/Debug/netcoreapp3.1/Publisher.runtimeconfig.dev.json
+/home/emmanuel/Documentos/Dev/csharp/rabbitmq-estudos/dotNet/Publisher/bin/Debug/netcoreapp3.1/Publisher.dll
+/home/emmanuel/Documentos/Dev/csharp/rabbitmq-estudos/dotNet/Publisher/bin/Debug/netcoreapp3.1/Publisher.pdb
+/home/emmanuel/Documentos/Dev/csharp/rabbitmq-estudos/dotNet/Publisher/bin/Debug/netcoreapp3.1/RabbitMQ.Client.dll
+/home/emmanuel/Documentos/Dev/csharp/rabbitmq-estudos/dotNet/Publisher/bin/Debug/netcoreapp3.1/System.Threading.Channels.dll
+/home/emmanuel/Documentos/Dev/csharp/rabbitmq-estudos/dotNet/Publisher/obj/Debug/netcoreapp3.1/Publisher.csprojAssemblyReference.cache
+/home/emmanuel/Documentos/Dev/csharp/rabbitmq-estudos/dotNet/Publisher/obj/Debug/netcoreapp3.1/Publisher.AssemblyInfoInputs.cache
+/home/emmanuel/Documentos/Dev/csharp/rabbitmq-estudos/dotNet/Publisher/obj/Debug/netcoreapp3.1/Publisher.AssemblyInfo.cs
+/home/emmanuel/Documentos/Dev/csharp/rabbitmq-estudos/dotNet/Publisher/obj/Debug/netcoreapp3.1/Publisher.csproj.CoreCompileInputs.cache
+/home/emmanuel/Documentos/Dev/csharp/rabbitmq-estudos/dotNet/Publisher/obj/Debug/netcoreapp3.1/Publisher.csproj.CopyComplete
+/home/emmanuel/Documentos/Dev/csharp/rabbitmq-estudos/dotNet/Publisher/obj/Debug/netcoreapp3.1/Publisher.dll
+/home/emmanuel/Documentos/Dev/csharp/rabbitmq-estudos/dotNet/Publisher/obj/Debug/netcoreapp3.1/Publisher.pdb
+/home/emmanuel/Documentos/Dev/csharp/rabbitmq-estudos/dotNet/Publisher/obj/Debug/netcoreapp3.1/Publisher.genruntimeconfig.cache
